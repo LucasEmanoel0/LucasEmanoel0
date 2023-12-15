@@ -1,5 +1,5 @@
 
-### OI! SOU LUCAS 👋
+# Ola, Sou Lucas Emanoel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 
 - 👨🏽‍🎓studying computer engineering(UFMA)
 - 21 ANOS
