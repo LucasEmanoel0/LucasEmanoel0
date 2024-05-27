@@ -15,7 +15,8 @@
 <div align="center"> 
 <a href="lcsdeidara@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail&perline=8" /></a>
 <a href="https://www.instagram.com/l_lucaas7/"> <img src="https://skillicons.dev/icons?i=instagram&perline=8" /></a>
-  <a href="https://discord.com/channels/@me/1123676271134658561"> <img src="https://skillicons.dev/icons?i=discord&perline=8" /></a>
+<a href="https://discord.com/channels/@me/1123676271134658561"> <img src="https://skillicons.dev/icons?i=discord&perline=8" /></a>
+<a href="https://www.linkedin.com/in/lucas-emanoel-081776224/"> <img src="https://skillicons.dev/icons?i=linkedin&perline=8" /></a>
  </div>
 
 <h2 align="center"> ⚒️ Habilidades / Hardskills</h2>
