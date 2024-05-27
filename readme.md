@@ -25,7 +25,7 @@
 </div>
 <h3 align="center">🤓 Em processo de aprendizado / In the learning process</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postgres,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,postman&perline=8" />
 </div>
 
 
