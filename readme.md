@@ -11,22 +11,19 @@
 </div>
 
 <div align="center"> 
-<a href="https://instagram.com/l_lucaas7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:lcsdeidara@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="lcsdeidara@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail&perline=8" /></a>
+<a href="https://www.instagram.com/l_lucaas7/"> <img src="https://skillicons.dev/icons?i=instagram&perline=8" /></a>
  </div>
 
- 
-
-### Studying in this moment:
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Typescript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=Node.JS)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)
-![Postgresql](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql)
-![Mysql](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql)
+<h2 align="center"> ⚒️ Habilidades / Hardskills</h2>
+<h3 align="center">👨‍💻 Linguagens/  Engines</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,react,sass,bootstrap,git,github,npm&perline=8" />
+</div>
+<h3 align="center">🤓 Em processo de aprendizado / In the learning process</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postgres,postman&perline=8" />
+</div>
 
 
 
