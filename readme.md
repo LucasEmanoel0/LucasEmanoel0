@@ -11,7 +11,7 @@
 </div>
 
   
-<h2>contacts</h2>
+<h2>contacts/contatos</h2>
 <div align="center"> 
 <a href="lcsdeidara@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail&perline=8" /></a>
 <a href="https://www.instagram.com/l_lucaas7/"> <img src="https://skillicons.dev/icons?i=instagram&perline=8" /></a>
